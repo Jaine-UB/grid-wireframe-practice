@@ -1,0 +1,46 @@
+.grid-container{
+    display: grid;
+    justify-content: center;
+    background-color: whitesmoke;
+    margin:20px;
+    padding: 20px;
+    gap: 20px;
+
+}
+
+.grid-container .input-box{
+    width : 80vw;
+    height : 70px;
+    font-size : 2em;
+    text-align: center;
+    align-items: center;
+}
+
+#input-box1{
+    background-color: pink;
+}
+#articles {
+    background-color: lightgreen;
+    padding: 20px 0px;
+    
+}
+
+#input-box2{
+    background-color: lightskyblue;
+}
+
+#input-box3{
+    background-color: lightcoral;
+}
+#input-box4{
+    background-color: lightcoral;
+}
+#input-box5{
+    background-color: lightcoral;
+}
+#input-box6{
+    background-color: lightskyblue;
+}
+#input-box7{
+    background-color: tan;
+}
